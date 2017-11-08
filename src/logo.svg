@@ -1,0 +1,10 @@
+<svg viewBox="0 0 505 100" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Group" transform="translate(81.000000, 1.000000)" font-size="72" letter-spacing="0.00719999988">
+        <text id="Search" font-family="AvenirNext-Regular, Avenir Next" font-weight="normal" fill="#4A90E2">
+            <tspan x="120" y="72">Search</tspan>
+        </text>
+        <text id="wiki" font-family="AvenirNext-UltraLight, Avenir Next" font-weight="200" fill="#9B9B9B">
+            <tspan x="0" y="72">wiki</tspan>
+        </text>
+    </g>
+</svg>

@@ -1,0 +1,29 @@
+.logo {
+  display: block;
+  max-width: 300px;
+  margin: auto;
+}
+
+.search-box {
+  display: block;
+  margin: 10px auto;
+  border: 1px solid #4e93e3;
+  font-size: 12px;
+}
+
+.category-list {
+  list-style: none;
+  text-align: center;
+  font-size: 20px;
+  padding: 10px;
+  color: #4e93e3;
+}
+
+.category-item {
+  padding: 5px;
+  cursor: pointer;
+}
+
+.none {
+  display: none;
+}
